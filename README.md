@@ -49,6 +49,7 @@ Screenshot showing the terminal installation process for Pentbox on Kali Linux
 When you launch Pentbox, you'll be presented with a comprehensive menu system offering multiple security testing categories:
 
 The main Pentbox interface showing all available tool categories
+![Port Scanner Results](images/image2.png)
 
 
 
