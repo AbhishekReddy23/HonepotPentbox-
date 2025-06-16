@@ -49,7 +49,7 @@ Screenshot showing the terminal installation process for Pentbox on Kali Linux
 When you launch Pentbox, you'll be presented with a comprehensive menu system offering multiple security testing categories:
 
 The main Pentbox interface showing all available tool categories
-![image](https://github.com/user-attachments/assets/e9ff52d7-d69e-45bf-b10d-f9d82088b89e)
+
 
 
 
