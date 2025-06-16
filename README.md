@@ -62,16 +62,18 @@ The main Pentbox interface showing all available tool categories
 🛠️ Manual Setup: Custom port selection, message configuration, and logging options
 
 🔎 Port Scanner: Comprehensive port scanning for target reconnaissance
-
+![Port Scanner Results](images/image3.png)
 🌊 Network Flooder: Traffic generation for stress testing (use ethically)
 
 🔒 Cryptography Tools
 🧩 Hashing Tools: Generate secure hash values using MD5, SHA256, and other algorithms
+![Port Scanner Results](images/image4.png)
 
 🗝️ Password Cracking: Dictionary-based password analysis and testing
+![Port Scanner Results](images/image5.png)
 
 📝 Text Encryption: Symmetric encryption and decryption capabilities
-
+![Port Scanner Results](images/image6.png)
 🖥️ System Tools
 📊 Performance Monitoring: Basic system resource analysis and monitoring
 
