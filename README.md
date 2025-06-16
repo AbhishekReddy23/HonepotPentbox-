@@ -24,6 +24,8 @@ Before getting started with this project, ensure you have the following componen
 
 💎 Pentbox - The main security testing framework (we'll download this together)
 
+
+
 🌐 Network Access - For testing network-based security features
 
 📦 Download and Install Pentbox on Kali Linux
@@ -46,6 +48,8 @@ Screenshot showing the terminal installation process for Pentbox on Kali Linux
 When you launch Pentbox, you'll be presented with a comprehensive menu system offering multiple security testing categories:
 
 The main Pentbox interface showing all available tool categories
+
+![Port Scanner Results](images/image.png)
 
 🌐 Network Tools
 🐝 Honeypot: Create fake systems to attract and analyze attackers
