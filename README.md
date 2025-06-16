@@ -43,7 +43,7 @@ Verify the installation
 Terminal Command Example:
 
 Screenshot showing the terminal installation process for Pentbox on Kali Linux
-![Port Scanner Results](images/image.png)
+![Port Scanner Results](images/image1.png)
 
 🚦 Pentbox Features Overview
 When you launch Pentbox, you'll be presented with a comprehensive menu system offering multiple security testing categories:
