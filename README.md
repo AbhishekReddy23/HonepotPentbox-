@@ -256,8 +256,9 @@ Industry Publications: Stay updated with latest security trends
 
 Professional Networks: Connect with cybersecurity professionals
 
-⚠️ Ethical Usage and Legal Compliance
-Critical Guidelines:
+⚠️ Ethical Usage and Legal Compliance (Critical Guidelines):
+
+
 ⚠️ IMPORTANT DISCLAIMER: This project and all associated tools are intended strictly for educational purposes and authorized security testing only.
 
 Legal Requirements:
